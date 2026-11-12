@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I'm a veterinary student who also builds backend software. My main language is C++, and I'm most interested in backend and systems work: how things run fast, stay correct, and keep working under load. I'm also curious about AI and enjoy learning new tools and languages.
+I'm a veterinary student who also builds backend software. My main language is C++, and I'm most interested in backend and systems work: how things run fast, stay correct, and keep working under load. I'm also curious about AI, and I've combined it with my studies in VetRAG, a study assistant for veterinary coursework.
 
 > Most of my code is in private repositories, so this page is a summary, not a full portfolio.
 
@@ -28,20 +28,31 @@ I'm a veterinary student who also builds backend software. My main language is C
 
 - ⚡ Backend development and systems programming in C++
 - 🧩 Libraries and tooling, especially Boost
-- 🤖 AI, including image and text generation
+- 🤖 AI, including retrieval-augmented generation (RAG) and image and text generation
 - 🩺 Veterinary medicine
 
 ---
 
 ## 📦 Projects
 
+### 🩺 VetRAG: Veterinary study assistant
+My largest project. A private, locally hosted, multimodal study assistant built from my Anytype knowledge base of lecture notes, slides, PDFs, audio, and video.
+
+- 🔗 **Live ingestion** from Anytype's local API, with type-aware exports and linked media
+- 🖼️ **Image understanding** with CPU captioning and an optional vision-model upgrade
+- 🎙️ **Audio and video transcription** using Whisper, with CPU and GPU tiers
+- 🎞️ **Video comprehension** through frame extraction and on-demand timestamp and range vision
+- 📄 **Verified PDF search** with page-level hashing and cited answers
+- 🧪 **Benchmarked and tested**, with about 45 structured test cases and unit tests
+- 🛡️ **Staged deployment** with validation gates, backups, and a single write lock
+- 🖥️ **Desktop control center** for browsing, running pipelines, and monitoring status
+
 <p align="center">
-  <img src="images/ozymandias.png" alt="OzymandiasBot" width="600">
+  <img src="images/vetrag.png" alt="VetRAG" width="600">
 </p>
 
 ### 🏛️ OzymandiasBot: Discord bot
-
-My largest project. A feature-rich Discord bot built in C++ with the DPP library.
+A feature-rich Discord bot built in C++ with the DPP library.
 
 | Feature | What it does |
 | :--- | :--- |
@@ -51,7 +62,11 @@ My largest project. A feature-rich Discord bot built in C++ with the DPP library
 | 🎮 **Games** | Games users can play through the bot |
 | 🔧 **Modding** | Tools for modding servers |
 
-> 🔒 The source is private, and the bot is now archived.
+<p align="center">
+  <img src="images/ozymandias.png" alt="OzymandiasBot" width="600">
+</p>
+
+> 🔒 Both projects are private. OzymandiasBot is now archived.
 
 ---
 
