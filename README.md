@@ -84,7 +84,7 @@ A feature-rich Discord bot built in C++ with the DPP library.
 | **Power** | SeaSonic PRIME TX-1600 (1600 W, 80+ Titanium) |
 | **OS** | Windows 11 Pro |
 | **Monitors** | MSI MPG 321URX (4K QD-OLED, 240 Hz), Asus VG248QG (1080p, 165 Hz), Acer Nitro KG271 (1080p, 180 Hz) |
-| **Peripherals** | Corsair K100 RGB, Logitech G502 X Plus, Sony WH-1000XM5, VIZOLINK W4DS webcam |
+| **Peripherals** | Corsair K100 RGB, Logitech G502 X Plus, Sony WH-1000XM5, VIZOLINK W4DS webcam, Fifine AM8, GAOMON WH851, And More... |
 
 ---
 
