@@ -40,8 +40,7 @@ I'm a veterinary student who also builds backend software. My main language is C
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheVetterI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVetterI&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170">
+  <img src="https://gh-stats.com/api/TheVetterI" alt="GitHub stats" height="170">
 </p>
 
 ---
