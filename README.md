@@ -40,7 +40,7 @@ I'm a veterinary student who also builds backend software. My main language is C
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats.com/api/TheVetterI" alt="GitHub stats" height="170">
+  <img src="https://gh-stats.com/api/TheVetterI" alt="GitHub stats" width="450">
 </p>
 
 ---
