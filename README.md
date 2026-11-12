@@ -66,6 +66,7 @@ My largest project. A private, locally hosted, multimodal study assistant built 
 
 <p align="center">
   <img src="images/vetrag_demo.gif" alt="VetRAG demo" width="700">
+  <img src="images/vetrag_demo.mp4" alt="VetRAG demo" width="800">
 </p>
 
 ### 🏛️ OzymandiasBot: Discord Bot
