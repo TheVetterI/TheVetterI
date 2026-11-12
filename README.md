@@ -68,12 +68,6 @@ My largest project. A private, locally hosted, multimodal study assistant built 
   <img src="images/vetrag_demo.gif" alt="VetRAG demo" width="700"
 </p>
 
-<p align="center">
-  <video src="images/vetrag_demo.mp4" width="800" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
-</p>
-
 ### 🏛️ OzymandiasBot: Discord Bot
 
 A feature-rich Discord bot built in C++ with the DPP library.
