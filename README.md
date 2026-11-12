@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="John's banner" width="800">
+  <img src="images/banner.svg" alt="John's banner" width="100%">
 </p>
 
 <p align="center">
@@ -18,6 +18,10 @@
 ## 🧠 About Me
 
 I'm a veterinary student who also builds backend software. My main language is C++, and I'm most interested in backend and systems work: how things run fast, stay correct, and keep working under load. I'm also curious about AI, and I've combined it with my studies in **VetRAG**, a study assistant for veterinary coursework.
+
+<p align="center">
+  <img src="images/ptah.png" alt="Ptah" width="400">
+</p>
 
 > 💡 Most of my code is in private repositories, so this page is a summary, not a full portfolio.
 
