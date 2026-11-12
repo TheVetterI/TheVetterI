@@ -35,6 +35,10 @@ I'm a veterinary student who also builds backend software. My main language is C
 
 ## 📦 Projects
 
+<p align="center">
+  <img src="images/vetrag_book.svg" alt="VetRAG logo" width="128">
+</p>
+
 ### 🩺 VetRAG: Veterinary study assistant
 My largest project. A private, locally hosted, multimodal study assistant built from my Anytype knowledge base of lecture notes, slides, PDFs, audio, and video.
 
@@ -46,10 +50,6 @@ My largest project. A private, locally hosted, multimodal study assistant built 
 - 🧪 **Benchmarked and tested**, with about 45 structured test cases and unit tests
 - 🛡️ **Staged deployment** with validation gates, backups, and a single write lock
 - 🖥️ **Desktop control center** for browsing, running pipelines, and monitoring status
-
-<p align="center">
-  <img src="images/vetrag.png" alt="VetRAG" width="600">
-</p>
 
 ### 🏛️ OzymandiasBot: Discord bot
 A feature-rich Discord bot built in C++ with the DPP library.
@@ -84,7 +84,7 @@ A feature-rich Discord bot built in C++ with the DPP library.
 | **Power** | SeaSonic PRIME TX-1600 (1600 W, 80+ Titanium) |
 | **OS** | Windows 11 Pro |
 | **Monitors** | MSI MPG 321URX (4K QD-OLED, 240 Hz), Asus VG248QG (1080p, 165 Hz), Acer Nitro KG271 (1080p, 180 Hz) |
-| **Peripherals** | Corsair K100 RGB, Logitech G502 X Plus, Sony WH-1000XM5, VIZOLINK W4DS webcam, Fifine AM8, GAOMON WH851 |
+| **Peripherals** | Corsair K100 RGB, Logitech G502 X Plus, Sony WH-1000XM5, VIZOLINK W4DS webcam |
 
 ---
 
