@@ -101,7 +101,7 @@ A feature-rich Discord bot built in C++ with the DPP library.
 | **GPU** | MSI GeForce RTX 5090 32 GB |
 | **Motherboard** | Gigabyte X870E AORUS MASTER X3D |
 | **Memory** | 128 GB DDR5-6400 |
-| **Storage** | 3× Crucial T705 4 TB PCIe 5.0 NVMe |
+| **Storage** | 3× Crucial T705 4 TB PCIe 5.0 NVMe, 2x Samsung 970 EVO Plus 1TB PCIE 3.0 NVMe|
 | **Cooling** | Corsair iCUE LINK TITAN 360 RX LCD |
 | **Case** | Fractal Design Meshify 2 |
 | **Power** | SeaSonic PRIME TX-1600 (1600 W, 80+ Titanium) |
