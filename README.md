@@ -65,8 +65,13 @@ My largest project. A private, locally hosted, multimodal study assistant built 
 - 🖥️ **Desktop control center** for browsing, running pipelines, and monitoring status
 
 <p align="center">
-  <img src="images/vetrag_demo.gif" alt="VetRAG demo" width="700">
-  <mp4 src="images/vetrag_demo.mp4" alt="VetRAG demo" width="800">
+  <img src="images/vetrag_demo.gif" alt="VetRAG demo" width="700"
+</p>
+
+<p align="center">
+  <video src="images/vetrag_demo.mp4" width="800" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ### 🏛️ OzymandiasBot: Discord Bot
