@@ -119,7 +119,7 @@ A feature-rich Discord bot built in C++ with the DPP library.
 | **Microphone** | Fifine AM8 |
 | **Tablet** | GAOMON WH851 |
 | **Phone** | OnePlus 12 |
-| **Dev board** | LilyGO T-Embed CC |
+| **Dev board** | LilyGO T-Embed CC1101 |
 
 </details>
 
